@@ -192,6 +192,6 @@ $ yarn workspace @animes-united/mobile run start
 
 ## Contributors
 
-| Aluno                                                                                                                                |
+| Author                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [<img src="https://avatars0.githubusercontent.com/u/55293671?s=115&v=4"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) |
